@@ -1,1 +1,1 @@
-# internets-speed-test
+# internet-speed-test
